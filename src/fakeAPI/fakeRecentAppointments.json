@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alma Beauty Salon",
+    "image": "../assets/images/salon1.jpg",
+    "date": "4 June 2023",
+    "cost": 500000,
+    "services": 2,
+    "stars": 4.6,
+    "reviews": 350,
+    "district": 3,
+    "city": "Ho Chi Minh",
+    "status": ["Recently Booked"]
+  },
+  {
+    "name": "Men's Barbershop",
+    "image": "../assets/images/salon1.jpg",
+    "date": "5 July 2023",
+    "cost": 800000,
+    "services": 1,
+    "stars": 4.7,
+    "reviews": 350,
+    "district": 7,
+    "city": "Ho Chi Minh",
+    "status": ["Favorite", "Recently Booked"]
+  }
+]

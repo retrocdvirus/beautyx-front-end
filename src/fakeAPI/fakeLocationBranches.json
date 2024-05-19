@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "address": "290 Nguyen Thi Minh Khai, Ward 5, District 1, Ho Chi Minh city",
+    "appointments": [
+      {
+        "customer": "Josh Weldon Hamming",
+        "services": 2,
+        "date": "15 August 2023",
+        "time": "9 am - 12 pm",
+        "stylist": "White Veil",
+        "status": "Pending"
+      },
+      {
+        "customer": "James Francis",
+        "services": 3,
+        "date": "12 Aug 2023",
+        "time": "1 pm - 2 pm",
+        "stylist": "Joe Roth",
+        "status": "Approved"
+      },
+      {
+        "customer": "Louis Lance",
+        "services": 1,
+        "date": "10 Aug 2023",
+        "time": "2 pm - 3 pm",
+        "stylist": "James Josh",
+        "status": "Cancelled"
+      },
+      {
+        "customer": "Welsh Louiz",
+        "services": 2,
+        "date": "8 Aug 2023",
+        "time": "10 am - 11 am",
+        "stylist": "James Josh",
+        "status": "Cancelled"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "address": "111 Nguyen Thai Binh, Ward Nguyen Thai Binh, District 1, Ho Chi Minh city",
+    "appointments": [
+      {
+        "customer": "Louis Washington",
+        "services": 2,
+        "date": "5 August 2023",
+        "time": "9 am - 12 pm",
+        "stylist": "Jane Huffingston",
+        "status": "Approved"
+      },
+      {
+        "customer": "James Francis",
+        "services": 3,
+        "date": "2 Aug 2023",
+        "time": "1 pm - 2 pm",
+        "stylist": "Joe Roth",
+        "status": "Approved"
+      },
+      {
+        "customer": "Jacob Heinz",
+        "services": 2,
+        "date": "6 July 2023",
+        "time": "2 pm - 3 pm",
+        "stylist": "James Josh",
+        "status": "Cancelled"
+      },
+      {
+        "customer": "Welsh Louiz",
+        "services": 2,
+        "date": "5 July 2023",
+        "time": "10 am - 11 am",
+        "stylist": "James Josh",
+        "status": "Approved"
+      }
+    ]
+  }
+]

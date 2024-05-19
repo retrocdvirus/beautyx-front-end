@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Alma Beauty Salon",
+    "image": "../assets/images/salon1.jpg",
+    "date": "4 June 2023",
+    "cost": 500000,
+    "services": 2,
+    "stars": 4.6,
+    "reviews": 350,
+    "district": 3,
+    "city": "Ho Chi Minh",
+    "status": ["Favorite", "Recently Booked"]
+  },
+  {
+    "name": "Men's Barbershop",
+    "image": "../assets/images/salon1.jpg",
+    "date": "5 July 2023",
+    "cost": 800000,
+    "services": 1,
+    "stars": 4.7,
+    "reviews": 350,
+    "district": 7,
+    "city": "Ho Chi Minh",
+    "status": ["Favorite", "Recently Booked"]
+  },
+  {
+    "name": "Alovera Haircut",
+    "image": "../assets/images/salon1.jpg",
+    "date": "15 Jan 2023",
+    "cost": 800000,
+    "services": 2,
+    "stars": 4.0,
+    "reviews": 350,
+    "district": 2,
+    "city": "Ho Chi Minh",
+    "status": ["Favorite"]
+  },
+  {
+    "name": "Stunning Hair Salon",
+    "image": "../assets/images/salon1.jpg",
+    "date": "5 May 2023",
+    "cost": 400000,
+    "services": 3,
+    "stars": 4.2,
+    "reviews": 350,
+    "district": 1,
+    "city": "Ho Chi Minh",
+    "status": ["Favorite", "Past Appointment"]
+  }
+]
